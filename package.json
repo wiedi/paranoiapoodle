@@ -1,0 +1,13 @@
+{
+    "name":        "paranoiapoodle",
+    "description": "stupid irc bot",
+    "author":      "Sebastian Wiedenroth <wiedi@frubar.net>",
+    "version": "0.0.1",
+    "bin": {
+        "paranoiapoodle": "./main.js"
+      },
+    "dependencies": {
+        "irc": "0.3.x",
+        "ellipsize": "0.0.x"
+    }
+}

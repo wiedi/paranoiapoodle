@@ -1,0 +1,7 @@
+{
+	"server": "irc.xchannel.org",
+	"nick": "paranoiapoodle",
+	"channel": "#xchannel",
+	"listen": "::",
+	"port": "42424"
+}
