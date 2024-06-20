@@ -3,5 +3,6 @@
 	"nick": "paranoiapoodle",
 	"channel": "#xchannel",
 	"listen": "::",
-	"port": "42424"
+	"port": "42424",
+	"http_port": "42428"
 }
